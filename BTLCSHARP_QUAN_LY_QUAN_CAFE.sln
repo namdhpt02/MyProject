@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTLCSHARP_QUAN_LY_QUAN_CAFE", "BTLCSHARP_QUAN_LY_QUAN_CAFE\BTLCSHARP_QUAN_LY_QUAN_CAFE.csproj", "{18080575-118F-4CFB-92E7-7BBE66422544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18080575-118F-4CFB-92E7-7BBE66422544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18080575-118F-4CFB-92E7-7BBE66422544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18080575-118F-4CFB-92E7-7BBE66422544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18080575-118F-4CFB-92E7-7BBE66422544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C606E0A5-0C58-466F-8502-8378F69C508D}
+	EndGlobalSection
+EndGlobal
